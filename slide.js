@@ -52,7 +52,7 @@ var player = new function(){
 
 	this.img = new Image();
 
-	this.img.src = "https://th.bing.com/th/id/OIP.DdQQ2WsiMiS4LJJBzcGAIgHaDI?pid=Api&rs=1";
+	this.img.src = "https://th.bing.com/th/id/OIP.AcE2SMsVRlDMw1uYJbIciwHaGg?pid=Api&rs=1";
 
 	this.draw = function(){
 
