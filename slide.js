@@ -52,7 +52,7 @@ var player = new function(){
 
 	this.img = new Image();
 
-	this.img.src = "https://p7.hiclipart.com/preview/975/946/464/5bbbfe4542562.jpg";
+	this.img.src = "https://th.bing.com/th/id/OIP.DdQQ2WsiMiS4LJJBzcGAIgHaDI?pid=Api&rs=1";
 
 	this.draw = function(){
 
